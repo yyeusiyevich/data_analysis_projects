@@ -11,3 +11,4 @@ ___________________________
 |  Project | Description | Tags |
 | ---------- | ----------  | ---------- | 
 | [Yandex Music](https://github.com/yyeusiyevich/yp_projects/blob/main/1.%20Yandex%20music/yandex_music.ipynb) | Based on the real data provided by Yandex.Music platform analyze the weekly activity and musical preferences of users from two big cities - Moscow and St.Petersburg. | Advertising platforms, Internet services, Internet shops, Digital-agencies / Marketing / PR / SEO, Startups, Tech-company, Business services [b2b]. |
+| [Credit Score Analysis](---) | Based on the clients solvency statistics find out if a customer’s marital status, age, education, number of children and some other factors have an impact on whether they will default on a loan. | Banking / FinTech, Startups, Tech-company, Business services [b2b], Lending, Financial analyst. |
