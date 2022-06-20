@@ -10,4 +10,4 @@ ___________________________
   
 |  Project | Description | Tags |
 | ---------- | ----------  | ---------- | 
-| Yandex Music | Based on the real data provided by Yandex.Music platform analyze the weekly activity and musical preferences of users from two big cities - Moscow and St.Petersburg. | Advertising platforms, Internet services, Internet shops, Digital-agencies / Marketing / PR / SEO, Startups, Tech-company, Business services [b2b]. |
+| [Yandex Music](https://github.com/yyeusiyevich/yp_projects/blob/main/1.%20Yandex%20music/yandex_music.ipynb) | Based on the real data provided by Yandex.Music platform analyze the weekly activity and musical preferences of users from two big cities - Moscow and St.Petersburg. | Advertising platforms, Internet services, Internet shops, Digital-agencies / Marketing / PR / SEO, Startups, Tech-company, Business services [b2b]. |
