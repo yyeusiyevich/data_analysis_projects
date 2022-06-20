@@ -6,3 +6,8 @@ Repository containing portfolio of data science projects completed by me during 
 **Programming languages:** Python, SQL.
 
 **IDE:** Jupyter Notebook.
+___________________________
+  
+|  Project | Description | Tags |
+| ---------- | ----------  | ---------- | 
+| Yandex Music | Based on the real data provided by Yandex.Music platform analyze the weekly activity and musical preferences of users from two big cities - Moscow and St.Petersburg. | Advertising platforms, Internet services, Internet shops, Digital-agencies / Marketing / PR / SEO, Startups, Tech-company, Business services [b2b]. |
