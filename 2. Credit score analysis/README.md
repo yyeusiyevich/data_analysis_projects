@@ -8,7 +8,7 @@ The main goal of the project was to test following hypotheses:
   1. Is there a connection between having kids and repaying a loan on time?
   2. Is there a connection between marital status and repaying a loan on time?
   3. Is there a connection between income and repaying a loan on time?
-  4. Is there a connection between education repaying a loan on time?
+  4. Is there a connection between education and repaying a loan on time?
   5. Is there a connection between income type and repaying a loan on time?
   6. How do different loan purposes affect on-time loan repayment?
 
