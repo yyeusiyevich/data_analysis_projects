@@ -1,16 +1,16 @@
 ![Loan](loan.jpg)
 
 ## Description :key:
-Our customer - the bank loan department. We want to figure out whether specified client characteristic affect the loan on time repayment. The data we work with is clients solvency statistics from the bank. The result of the research will be taken in the credit scoring model - a special system that evaluates the ability of a potential borrower to repay the loan.
+Our customer - the bank loan division. We want to figure out whether specified customers' characteristic affect the repaying a loan on time. The data we work with is customers’ creditworthiness from the bank. The result of the research will be taken in the credit scoring model - a special system that evaluates the ability of a potential borrower to repay their loan.
 
 ## Tasks :ballot_box_with_check:
 The main goal of the project was to test following hypotheses:
-  1. Is there a correlation between having children and a debt risk?
-  2. Is there a correlation between client's marital status and a debt risk?
-  3. Is there a correlation between client's income and a debt risk?
-  4. Is there a correlation between client's education and a debt risk?
-  5. Is there a correlation between client's income type and a debt risk?
-  6. How different loan purposes have an impact on its repayment?
+  1. Is there a connection between having kids and repaying a loan on time?
+  2. Is there a connection between marital status and repaying a loan on time?
+  3. Is there a connection between income and repaying a loan on time?
+  4. Is there a connection between education repaying a loan on time?
+  5. Is there a connection between income type and repaying a loan on time?
+  6. How do different loan purposes affect on-time loan repayment?
 
 ## Scope of activities :bulb:
 Banking / FinTech, Startups, Tech-company, Business services [b2b], Lending, Financial analyst.
