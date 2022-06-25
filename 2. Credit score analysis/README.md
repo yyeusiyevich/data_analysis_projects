@@ -1,10 +1,10 @@
 ![Loan](loan.jpg)
 
 ## Description :key:
-Our customer - the bank loan division. We want to figure out whether specified customers' characteristic affect the repaying a loan on time. The data we work with is customers’ creditworthiness from the bank. The result of the research will be taken in the credit scoring model - a special system that evaluates the ability of a potential borrower to repay their loan.
+Our customer - the bank loan division. We want to figure out whether specified customers' characteristic affects the repaying of a loan on time. The data we work with is customers’ creditworthiness from the bank. The result of the research will be taken in the credit scoring model - a special system that evaluates the ability of a potential borrower to repay the loan.
 
 ## Tasks :ballot_box_with_check:
-The main goal of the project was to test following hypotheses:
+The main goal of the project was to test the following hypotheses:
   1. Is there a connection between having kids and repaying a loan on time?
   2. Is there a connection between marital status and repaying a loan on time?
   3. Is there a connection between income and repaying a loan on time?
@@ -25,4 +25,4 @@ Exploratory Data Analysis, Python, Pandas, Numpy, Matplotlib, Seaborn, Research,
 
 
 ## Project Status :black_square_button:
-_Completed_ 
+_Completed_
