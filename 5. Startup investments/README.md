@@ -1,7 +1,7 @@
 ![Logo](investments.jpg)
 
 ## Description :key:
-In this project we work with the database which contains information about the startup ecosystem: organizations, individuals, company news, funding rounds, acquisitions, and IPOs. There are 7 tables that can be joined using unique IDs (schema in ipynb file). 
+In this project we work with the database which contains information about the startup ecosystem: organizations, individuals, company news, funding rounds, acquisitions, and IPOs. There are 7 tables that can be joined using unique IDs (schema is below). 
 
 ## Tasks :ballot_box_with_check:
 The main objective of the project is to analyze the market using SQL queries.
