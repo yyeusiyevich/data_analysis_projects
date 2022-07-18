@@ -13,7 +13,7 @@ Startups, Catering, Investments, Presentation, Tech-company, Marketing analyst, 
 Pandas, Seaborn, Matplotlib, Pymystem3, Collections, NumPy.
 
 ## Tags :label:
-Python, Pandas, NumPy, Matplotlib, Seaborn, Exploratory Data Analysis (EDA), Visualizations, Preprocessing, Data artifacts, Pie chart, Boxplot, Google Sheets.
+Python, Pandas, NumPy, Matplotlib, Seaborn, Exploratory Data Analysis (EDA), Visualizations, Preprocessing, Data artifacts, Pie chart, Boxplot, Google Slides.
 
 
 ## Project Status :black_square_button:
