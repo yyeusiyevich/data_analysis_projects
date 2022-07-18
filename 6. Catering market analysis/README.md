@@ -1,21 +1,19 @@
-![Logo](kp_logo.jpeg)
+![Logo](catering.jpg)
 
 ## Description :key:
-In this project we have the data from Kinopoisk platform and the Department's of Culture web portal provided for us. We identify main trends in film industry in general and in the Russian segment particularly. Also, we pay attention to the films with state support and answer the question whether they're interesting to a wide audience. 
+In this project we analyze the catering market in Moskow based on open source data and investigate the question - will be successful and popular for a long time cafe, where clients will be served by robot waiters. Based on the analysis, we make a presentation to investors with recommendations.
 
 ## Tasks :ballot_box_with_check:
-The main objectives of the project are to identify modern trends in film industry and to determine whether state-supported films are attractive to an audience.
+The main objectives of the project are to identify modern trends in the food & beverage market and to develop geographic guidelines and templates for the new restaurant chain. 
 
 ## Scope of activities :bulb:
-Internet services, Streaming platforms, Cinema, Offline, Advertising platforms, Marketing analyst, Data Analyst, Financial Analyst, Data Vizualization.
-
+Startups, Catering, Investments, Presentation, Tech-company, Marketing analyst, Data Analyst. 
 
 ## Used Libraries :mortar_board:
-Pandas, Seaborn, Matplotlib, Plotly, Numpy.
-
+Pandas, Seaborn, Matplotlib, Pymystem3, Collections, NumPy.
 
 ## Tags :label:
-Exploratory Data Analysis, Python, Pandas, Numpy, Matplotlib, Seaborn, Exploratory Data Analysis (EDA), Visualizations, Preprocessing, Data artifacts, Categorization, Histogram, Boxplot, Scattermatrix, Plotly.
+Python, Pandas, NumPy, Matplotlib, Seaborn, Exploratory Data Analysis (EDA), Visualizations, Preprocessing, Data artifacts, Pie chart, Boxplot, Google Sheets.
 
 
 ## Project Status :black_square_button:
