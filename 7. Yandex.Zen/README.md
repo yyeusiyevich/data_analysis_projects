@@ -18,7 +18,7 @@ Pandas, Seaborn, Matplotlib.
 
 
 ## Tags :label:
-Exploratory Data Analysis, Python, Pandas, Numpy, Matplotlib, Seaborn, Research, Data processing, Tableau, Data Visualization.
+Exploratory Data Analysis, Python, Pandas, Numpy, Matplotlib, Seaborn, Research, Data processing, Tableau, Data Visualization, SQL, SQLite.
 
 
 ## Project Status :black_square_button:
