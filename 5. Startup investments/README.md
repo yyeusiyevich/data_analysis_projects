@@ -122,7 +122,7 @@ Contains information on funding rounds.
 Contains information on venture fund investments in startups.      
 
 
-- primary key `id` — уникальный номер инвестиции;
+- primary key `id` — unique investment identifier;
 - foreign key `funding_round_id` — refers to the 'funding_round' table — unique round number;
 - foreign key `company_id` — refers to the 'company' table — unique number of the startup for investment;
 - foreign key `fund_id` — refers to the 'fund' table — unique number of the fund investing in the startup;
