@@ -1,4 +1,4 @@
-![fitness-logo](fintess_logo.jpg)
+![fitness-logo](fitntess_logo.jpg)
 
 ## Description :key:
 In this project, we work as fitness chain analysts. The company develops an analytics-driven user engagement strategy. We solve the common problem of fitness centers and other services customer churn. For the fitness center, we will consider that the customer has left, if the last month has never visited the gym. We work with data provided to us by customer department - user profiles.
