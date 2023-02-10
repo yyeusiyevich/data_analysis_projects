@@ -27,7 +27,7 @@ _Completed_
 ________________________________________
 # SQL
 ## Description :key:
-The coronavirus has caught the world off guard, changing the familiar order of things. In their free time, city dwellers no longer go out on the street, visit cafes and shopping centers. But there is more time for books. In this project, we work with a database of information about books, publishers, authors, and user reviews of books. This data will help formulate a value proposition for a new product - an online application for those who love to read.
+The coronavirus has caught the world off guard, changing the familiar order of things. In their free time, city dwellers no longer go out on the street, visit cafes and shopping centers. But there is more time for books. In this project, we work with a database of information about books, publishers, authors, and user reviews of books. This data will help formulate a value proposition for a new product - an online application for those who love to read. ERD provided in files.
 
 ## Tasks :ballot_box_with_check:
 Analyze the database and answer the following questions:
