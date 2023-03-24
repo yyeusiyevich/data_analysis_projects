@@ -48,3 +48,28 @@ Python, SQL, SQLAlchemy, Database, Database Management System, Database Query, D
 
 ## Project Status :black_square_button:
 _Completed_ 
+________________________________________
+# A/B - test
+## Description :key:
+In this project we will assess the results of the A/B test. We are working with data on user actions, technical task data, and auxiliary tables.
+
+## Tasks :ballot_box_with_check:
+The objectives of the research are:
+- evaluation of the correctness of the test using the z-criterion;
+- analysis of the results;
+To evaluate the correctness of the test, we will check the intersection of the test audience with the competing test, as well as the coincidence of the test and marketing events and some other problems of the temporal boundaries of the test.
+
+
+## Scope of activities :bulb:
+A/B Testing, User Actions, Technical Task, Data Analysis, Z-Criterion, Test Audience, Marketing Events.
+
+
+## Used Libraries :mortar_board:
+Pandas, Numpy, Matplotlib, Seaborn, SciPy, Plotly.
+
+
+## Tags :label:
+Data Analytics, Analysis Tools, Data Visualization, Statistical Analysis, Hypothesis Testing, KPI Analysis, Monitoring Metrics, A/B Testing Strategies, Randomization Testing, Experiment Design.
+
+## Project Status :black_square_button:
+_Completed_ 
